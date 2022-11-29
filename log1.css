@@ -1,0 +1,15 @@
+
+body {
+    width: 640px;
+    margin: auto;
+    font-family: 'Avenir', sans-serif;
+    padding: 50px;
+    color: #33475b;
+}
+h1{
+    font-size: 17px;
+}
+
+h2{
+    font-size: medium;
+}
